@@ -23,7 +23,7 @@
 		]
 	},
 	"mixins": [
-		"untitled-client.mixins.json"
+		"Untitled-Client.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.17.3",

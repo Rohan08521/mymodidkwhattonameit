@@ -3,7 +3,8 @@
 	"package": "rohan.untitledclient.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ExampleMixin"
+		"GlasspaneHitbox",
+        "MouseMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
